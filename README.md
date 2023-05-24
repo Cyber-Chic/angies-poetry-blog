@@ -1,3 +1,3 @@
 # angies-poetry-blog
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-kjywna)
+Check out Angela Moore's AMAZING poetry blog at: angies.poetry.blog
